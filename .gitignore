@@ -1,0 +1,14 @@
+node_modules/
+bun.lock
+public/build/
+dist/
+build/
+*.log
+coverage/
+*.test.js
+*.test.js.map
+
+# Environment variables
+.env
+.env.local
+.env.*.local

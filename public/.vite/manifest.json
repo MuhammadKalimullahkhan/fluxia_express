@@ -1,0 +1,8 @@
+{
+  "src/client/app.tsx": {
+    "file": "app.js",
+    "name": "app",
+    "src": "src/client/app.tsx",
+    "isEntry": true
+  }
+}

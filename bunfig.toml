@@ -1,0 +1,4 @@
+[test]
+# Bun test configuration
+preload = ["./tests/setup.ts"]
+
